@@ -14,10 +14,6 @@ RecipePro is an intelligent recipe recommendation web application that uses the 
 - **AI Integration**: Uses LangChain to interface with the Google Gemini AI model to generate customized recipes.
 - **Real-time Deployment**: Hosted live on Render, so you can access the web app anywhere.
 
-## Live Demo
-You can try out the live version of the application here:  
-[RecipePro AI](https://recipepro-ai.onrender.com)
-
 ## Technology Stack
 - **Backend**: Django
 - **Frontend**: HTML, Tailwind CSS
@@ -37,7 +33,7 @@ To run this project locally, follow the steps below:
 ### Steps to Run Locally
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Rahul4112002/RecipePro.ai.git
+   git clone https://github.com/DeepakChander/RecipePro.AI.git
    cd RecipePro.ai
 You can use the following command in your terminal to create the `README.md` file with the updated code block syntax:
 
